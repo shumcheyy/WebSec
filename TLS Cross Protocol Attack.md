@@ -19,6 +19,7 @@ Given a client (i.e., web browser) and two application servers (i.e., the intend
 
 ![](https://thehackernews.com/images/-sAdGuYwxSW8/YMDtPezICJI/AAAAAAAACzo/HrLOe4Ju63cu3xrxmWVIy6reEC5ibyRUgCLcBGAsYHQ/s728-e1000/hacking.jpg)
 
+--- 
 
 #### Mitigation
 
